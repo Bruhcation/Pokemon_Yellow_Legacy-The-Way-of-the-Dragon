@@ -8,6 +8,14 @@ Yellow Legacy aims to give each Pokémon a special niche. Balance changes were m
 
 While Yellow Legacy is not designed as a “Kaizo” project, Pokémon trainer fights (especially bosses) throughout the game have been made more difficult. Difficulty is used as a tool to make the game as engaging as possible to the most amount of players. It will not be difficult for the sake of being difficult, but rather, to provide you with a challenge that gives reaching the title of Champion a feeling of genuine earned satisfaction. Major trainers will have Pokémon and attacks designed to counter players attempting to easily sweep through the fight with a single super-effective Pokémon. However, players will also have more opportunities to create unique teams of stellar Pokémon to tackle each major fight. Pokémon availability has also been altered throughout the world to provide appropriately-powerful Pokémon based on your progression through the game. Finally, all 151 Pokémon will be obtainable in a single playthrough, and a small amount of post-game content has been added as well.
 
+Physical Dragon Edition:
+Dragon has been made Physical, In edition to some other Changes
+
+Seadra gets Dragon Type and +10 to HP and +20 to Attack to make it kinda like Kingdra and make it so that it's not hurt by physical dragon
+Petal Dance has been buffed to 120
+Hitmonlee gets earthquake while hitmonchan gets +3 hp and +35 attack to match with Hitmonlee's bst
+
+
 
 ## Download and Play
 
