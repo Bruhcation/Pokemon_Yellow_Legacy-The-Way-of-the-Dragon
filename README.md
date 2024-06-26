@@ -12,7 +12,9 @@ Physical Dragon Edition:
 Dragon has been made Physical, In edition to some other Changes
 
 Seadra gets Dragon Type and +10 to HP and +20 to Attack to make it kinda like Kingdra and make it so that it's not hurt by physical dragon
+
 Petal Dance has been buffed to 120
+
 Hitmonlee gets earthquake while hitmonchan gets +3 hp and +35 attack to match with Hitmonlee's bst
 
 
