@@ -28,13 +28,13 @@ PrizeMenuMon2Cost:
 	db "@"
 
 PrizeMenuTMsEntries:
-	db KANGASKHAN
+	db TM_DRAGON_RAGE
 	db TM_HYPER_BEAM
 	db TM_SUBSTITUTE
 	db "@"
 
 PrizeMenuTMsCost:
-	bcd2 2000
+	bcd2 1000
 	bcd2 5000
 	bcd2 3000
 	db "@"

@@ -1,8 +1,8 @@
 Route10WildMons:
 	def_grass_wildmons 15 ; encounter rate
-	db 18, VOLTORB
+	db 16, MAGNEMITE
 	db 20, RATICATE
-	db 20, VOLTORB
+	db 18, MAGNEMITE
 	db 20, MAGNEMITE
 	db 17, NIDORAN_M
 	db 17, NIDORAN_F

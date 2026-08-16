@@ -6,7 +6,7 @@ TradeMons:
 	; from the Japanese Blue trades, which used species that evolve.
 	; Japanese Red and Green used TRADE_DIALOGSET_CASUAL, and had
 	; the same species as English Red and Blue.
-	db SPEAROW,  FARFETCHD,  TRADE_DIALOGSET_CASUAL,    "DUX@@@@@@"
+	db LICKITUNG,  DUGTRIO,  TRADE_DIALOGSET_CASUAL,    "GURIO@@@@@@"
 	db CLEFAIRY,   MR_MIME,  TRADE_DIALOGSET_CASUAL,    "MILES@@@@@@"
 	db BUTTERFREE, BEEDRILL, TRADE_DIALOGSET_HAPPY,     "STINGER@@@@" ; unused
 	db KANGASKHAN, MUK,      TRADE_DIALOGSET_CASUAL,    "STICKY@@@@@"
