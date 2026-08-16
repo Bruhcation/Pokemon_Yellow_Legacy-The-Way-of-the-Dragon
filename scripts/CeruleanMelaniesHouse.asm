@@ -34,7 +34,7 @@ CeruleanMelanieHouseMelanieText:
 	call GetMonName
 	ld a, $1
 	ld [wDoNotWaitForButtonPressAfterDisplayingText], a
-	lb bc, BULBASAUR, 10
+	lb bc, BULBASAUR, 15
 	call GivePokemon
 	jr nc, .asm_1cfb3
 	ld a, [wAddedToParty]
