@@ -1054,7 +1054,9 @@ FarfetchdEvosMoves:
 	db 23, SLASH
 	db 28, SWORDS_DANCE
 	db 31, DRILL_PECK
+	db 35, RAZOR_LEAF
 	db 39, AGILITY
+	db 45, SKY_ATTack
 	db 0
 
 VenonatEvosMoves:
