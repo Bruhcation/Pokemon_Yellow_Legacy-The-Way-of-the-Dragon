@@ -1083,7 +1083,8 @@ DragoniteEvosMoves:
 	db 20, DRAGON_RAGE
 	db 25, AGILITY
 	db 30, SLAM
-	db 55, WING_ATTACK
+	db 50, WING_ATTACK
+	db 55, SKY_ATTACK
 	db 60, HYPER_BEAM
 	db 0
 
@@ -1272,7 +1273,7 @@ PikachuEvosMoves:
 	db 8, THUNDER_WAVE
 	db 11, TAIL_WHIP
 	db 15, DOUBLE_TEAM
-	db 20, THUNDERPUNCH
+	db 21, THUNDERPUNCH
 	db 24, HEADBUTT
 	db 30, THUNDERBOLT
 	db 36, AGILITY
@@ -2068,7 +2069,7 @@ AlakazamEvosMoves:
 
 PidgeottoEvosMoves:
 ; Evolutions
-	db EVOLVE_LEVEL, 32, PIDGEOT
+	db EVOLVE_LEVEL, 36, PIDGEOT
 	db 0
 ; Learnset
 	db 5, SAND_ATTACK
@@ -2090,6 +2091,7 @@ PidgeotEvosMoves:
 	db 21, WHIRLWIND
 	db 29, TAKE_DOWN
 	db 34, AGILITY
+	db 37, MEGA_KICK
 	db 40, SKY_ATTACK
 	db 49, MIRROR_MOVE
 	db 0
@@ -2112,7 +2114,7 @@ BulbasaurEvosMoves:
 	db 0
 ; Learnset
 	db 7, LEECH_SEED
-	db 9, VINE_WHIP
+	db 13, VINE_WHIP
 	db 22, POISONPOWDER
 	db 25, SLEEP_POWDER
 	db 29, RAZOR_LEAF
@@ -2386,8 +2388,8 @@ CharmanderEvosMoves:
 	db 9, EMBER
 	db 13, LEER
 	db 17, RAGE
-	db 19, FIRE_PUNCH
-	db 23, BITE
+	db 19, BITE
+	db 22, FIRE_PUNCH
 	db 33, SLASH
 	db 38, FLAMETHROWER
 	db 46, FIRE_SPIN
@@ -2399,8 +2401,8 @@ SquirtleEvosMoves:
 	db EVOLVE_LEVEL, 16, WARTORTLE
 	db 0
 ; Learnset
-	db 5, BUBBLE
-	db 10, WATER_GUN
+	db 6, BUBBLE
+	db 13, WATER_GUN
 	db 15, BITE
 	db 21, BUBBLEBEAM
 	db 27, BODY_SLAM
@@ -2419,8 +2421,8 @@ CharmeleonEvosMoves:
 	db 9, EMBER
 	db 13, LEER
 	db 17, RAGE
-	db 19, FIRE_PUNCH
-	db 23, BITE
+	db 19, BITE
+	db 22, FIRE_PUNCH
 	db 33, SLASH
 	db 40, FLAMETHROWER
 	db 48, SLAM
@@ -2451,8 +2453,8 @@ CharizardEvosMoves:
 	db 9, EMBER
 	db 13, LEER
 	db 17, RAGE
-	db 19, FIRE_PUNCH
-	db 23, BITE
+	db 19, BITE
+	db 22, FIRE_PUNCH
 	db 33, SLASH
 	db 36, WING_ATTACK
 	db 42, FLAMETHROWER
