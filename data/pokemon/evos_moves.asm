@@ -1057,7 +1057,7 @@ FarfetchdEvosMoves:
 	db 31, DRILL_PECK
 	db 35, RAZOR_LEAF
 	db 39, AGILITY
-	db 45, SKY_ATTACK
+	db 45, SKY_ATTack
 	db 0
 
 VenonatEvosMoves:
@@ -1083,8 +1083,8 @@ DragoniteEvosMoves:
 	db 20, DRAGON_RAGE
 	db 25, AGILITY
 	db 30, SLAM
-	db 50, SKY_ATTACK
-	db 55, WING_ATTACK
+	db 50, WING_ATTACK
+	db 55, SKY_ATTACK
 	db 60, HYPER_BEAM
 	db 0
 
