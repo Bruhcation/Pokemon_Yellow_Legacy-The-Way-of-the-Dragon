@@ -39,13 +39,16 @@ IsSurfingAllowed:
 	res 1, [hl]
 	call InitializeFieldMoveTextBox
 	ld hl, CurrentTooFastText
-	jp PrintText
+	jp .finish
 .forcedToRideBike
 	ld hl, wd728
 	res 1, [hl]
 	call InitializeFieldMoveTextBox
 	ld hl, CyclingIsFunText
-	jp PrintText
+.finish
+	call PrintText
+	call CloseFieldMoveTextBox
+	ret
 
 SeafoamIslandsB4FStairsCoords:
 	dbmapcoord  7, 11

@@ -33,8 +33,8 @@ Ditto +40 HP
 
 ## A complete list of features can be found here:
 - Full doc: 
-    - [Make a Copy (Recommended)]( https://docs.google.com/document/d/1oVDn9-gGBJsxE4bZcrgGL3gvvouPuNeNlGBEOvPEIJU/copy)
-    - [Download as PDF](https://docs.google.com/document/d/1oVDn9-gGBJsxE4bZcrgGL3gvvouPuNeNlGBEOvPEIJU/export?format=pdf)
+    - [Make a Copy (Recommended)](https://docs.google.com/document/d/1JlZRhW2fcBUd7y23DB7MGfJCU95FK_yJI-QdRFdMawI/copy)
+    - [Download as PDF](https://docs.google.com/document/d/1JlZRhW2fcBUd7y23DB7MGfJCU95FK_yJI-QdRFdMawI/export?format=pdf)
 
 These videos also provide an overview of the hack and the ideology behind it:
 - Release 1.0: https://youtu.be/jTH2fVqHPwc
