@@ -382,7 +382,7 @@ ExeggcuteEvosMoves:
 
 GrimerEvosMoves:
 ; Evolutions
-	db EVOLVE_LEVEL, 35, MUK
+	db EVOLVE_LEVEL, 32, MUK
 	db 0
 ; Learnset
 	db 10, HARDEN
@@ -839,7 +839,6 @@ ParasectEvosMoves:
 ; Evolutions
 	db 0
 ; Learnset
-	db 1, TWINEEDLE
 	db 6, STUN_SPORE
 	db 8, ABSORB
 	db 10, LEECH_LIFE
