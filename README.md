@@ -17,6 +17,12 @@ Petal Dance has been buffed to 120
 
 Hitmonlee gets earthquake while hitmonchan gets +3 hp and +35 attack to match with Hitmonlee's bst
 
+Far Fetched Gets +5 Attack and learns sky attack and razor leaf tho level up
+
+Flareons Special and Attack swapped
+
+Ditto +40 HP
+
 
 
 ## Download and Play
