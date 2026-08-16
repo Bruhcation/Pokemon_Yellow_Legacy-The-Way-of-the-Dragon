@@ -21,7 +21,7 @@ VermilionCityPrintOfficerJennyText::
 	call GetMonName
 	ld a, $1
 	ld [wDoNotWaitForButtonPressAfterDisplayingText], a
-	lb bc, SQUIRTLE, 15
+	lb bc, SQUIRTLE, 20
 	call GivePokemon
 	ret nc
 	ld a, [wAddedToParty]
